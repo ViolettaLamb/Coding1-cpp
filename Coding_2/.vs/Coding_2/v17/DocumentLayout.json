@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D36EF11-D684-4296-82FC-BBEBACD54B82}|Coding_2.vcxproj|C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\adventure1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D36EF11-D684-4296-82FC-BBEBACD54B82}|Coding_2.vcxproj|solutionrelative:adventure1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D36EF11-D684-4296-82FC-BBEBACD54B82}|Coding_2.vcxproj|C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\Coding_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D36EF11-D684-4296-82FC-BBEBACD54B82}|Coding_2.vcxproj|solutionrelative:Coding_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Coding_2.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\Coding_2.cpp",
+              "RelativeDocumentMoniker": "Coding_2.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\Coding_2.cpp",
+              "RelativeToolTip": "Coding_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-06T18:00:42.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "adventure1.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\adventure1.cpp",
+              "RelativeDocumentMoniker": "adventure1.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\adventure1.cpp",
+              "RelativeToolTip": "adventure1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-06T17:48:15.584Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
