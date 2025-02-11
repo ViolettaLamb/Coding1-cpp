@@ -1,3 +1,4 @@
-﻿  Coding_2.cpp
-C:\Users\viole\Documents\Github\Coding1-cpp\Coding_2\Coding_2.cpp(66,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+﻿  adventure1.cpp
+C:\Users\viole\Documents\Github\Coding1-cpp\Coding_2\adventure1.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\viole\Documents\Github\Coding1-cpp\Coding_2\adventure1.cpp(79,27): warning C4552: '>=': result of expression not used
   Coding_2.vcxproj -> C:\Users\viole\Documents\Github\Coding1-cpp\Coding_2\x64\Debug\Coding_2.exe
