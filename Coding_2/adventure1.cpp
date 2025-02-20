@@ -64,8 +64,8 @@ int main()
             {
          
                 totalTurns += 1;
-                attack = (rand() % 5) + 0;
-                block = (rand() % 5) + 0;
+                attack = rand() % 5;
+                block = rand() % 5;
 
 
                 if (attack > block) //you got hurt
@@ -109,7 +109,8 @@ int main()
                     if (input == "no")
                     {
                         cout << "Thanks for going on this adventure " << name << "!\n";
-                        return(0);      // this breaks us out of the loop early!
+                        return(0); //return 0 and break are similar but also slightly different
+                        // this breaks us out of the loop early!
                     }
           
 
