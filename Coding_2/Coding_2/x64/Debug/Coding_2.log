@@ -1,4 +1,3 @@
-﻿  adventure1.cpp
-C:\Users\viole\Documents\Github\Coding1-cpp\Coding_2\adventure1.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\viole\Documents\Github\Coding1-cpp\Coding_2\adventure1.cpp(79,27): warning C4552: '>=': result of expression not used
+﻿  LoopsandLists.cpp
+C:\Users\viole\Documents\Github\Coding1-cpp\Coding_2\LoopsandLists.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Coding_2.vcxproj -> C:\Users\viole\Documents\Github\Coding1-cpp\Coding_2\x64\Debug\Coding_2.exe
