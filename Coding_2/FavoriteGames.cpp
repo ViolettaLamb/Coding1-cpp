@@ -51,7 +51,7 @@ int main()
 
                 if (input == favGames[i]) //now this aint working? doing samething as add?
                 {
-                    favGames[i] = input;
+                    favGames[i] = "";
 
                 }
 
