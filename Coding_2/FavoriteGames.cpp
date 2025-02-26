@@ -38,6 +38,8 @@ int main()
             cout << "What Game would you like to Add to You're list?\n";
 
             getline(cin, input);
+            (currentFavGame <= 10);
+
         }
        
         else if (input == "Edit") //edit the game
@@ -100,6 +102,6 @@ int main()
         
        favGames[currentFavGame++] = input;
 
-    } while (currentFavGame <= 10);
+    } while(currentFavGame <= 10);
     
 }
