@@ -24,5 +24,8 @@
     <ClCompile Include="LoopsandLists.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="FavoriteGames.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
