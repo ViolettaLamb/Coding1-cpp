@@ -38,7 +38,8 @@ int main()
             cout << "What Game would you like to Add to You're list?\n";
 
             getline(cin, input);
-            (currentFavGame <= 10);
+            favGames[currentFavGame++] = input;
+
 
         }
        
@@ -51,15 +52,20 @@ int main()
             {
                 getline(cin, input);
 
-                if (input == favGames[i]) //now this aint working? doing samething as add?
+                if (favGames[i] == input) //now this aint working? doing samething as add?
                 {
-                    favGames[i] = "";
+                    cout << "I've found the game, what would you like to change it too?\n";
+                    getline(cin, input);
+
+                    favGames[i] = input;
 
                 }
 
-                cout << "I've found the game, what would you like to change it too?\n";
-                getline(cin, input);
-                
+                if (i + 1 == currentFavGame)
+                {
+                    cout << "I couldn't find the game you are asking for\n";
+                }
+
             }
 
         }
@@ -67,18 +73,18 @@ int main()
         {
             // what do you want to remove?
             cout << "What game would you like to Remove?\n";
-           
+            getline(cin, input);
+
             // // get input
             // looking through the loop
             for (int i = 0; i < currentFavGame; i++) 
             {
-                getline(cin, input);
-
-
-                if (input == favGames[i]) 
+ 
+                if (favGames[i] == input)
                 { 
                     cout << "I've found the game, removing it now.\n";
                     favGames[i] = "";
+                    cout << "Game has been removed.\n";
                 }
             }
         }
@@ -100,7 +106,7 @@ int main()
             }
         }
         
-       favGames[currentFavGame++] = input;
+      
 
     } while(currentFavGame <= 10);
     
