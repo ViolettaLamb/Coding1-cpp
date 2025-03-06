@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D36EF11-D684-4296-82FC-BBEBACD54B82}|Coding_2.vcxproj|C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\FavoriteGames.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6D36EF11-D684-4296-82FC-BBEBACD54B82}|Coding_2.vcxproj|solutionrelative:FavoriteGames.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D36EF11-D684-4296-82FC-BBEBACD54B82}|Coding_2.vcxproj|C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\LoopsandLists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6D36EF11-D684-4296-82FC-BBEBACD54B82}|Coding_2.vcxproj|solutionrelative:LoopsandLists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6D36EF11-D684-4296-82FC-BBEBACD54B82}|Coding_2.vcxproj|C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\recap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D36EF11-D684-4296-82FC-BBEBACD54B82}|Coding_2.vcxproj|solutionrelative:recap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FavoriteGames.cpp",
-              "DocumentMoniker": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\FavoriteGames.cpp",
-              "RelativeDocumentMoniker": "FavoriteGames.cpp",
-              "ToolTip": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\FavoriteGames.cpp",
-              "RelativeToolTip": "FavoriteGames.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Title": "recap.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\recap.cpp",
+              "RelativeDocumentMoniker": "recap.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\recap.cpp*",
+              "RelativeToolTip": "recap.cpp*",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAG0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-20T18:12:35.334Z",
+              "WhenOpened": "2025-03-06T15:32:28.902Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoopsandLists.cpp",
-              "DocumentMoniker": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\LoopsandLists.cpp",
-              "RelativeDocumentMoniker": "LoopsandLists.cpp",
-              "ToolTip": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\LoopsandLists.cpp",
-              "RelativeToolTip": "LoopsandLists.cpp",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAAAF0AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-20T15:52:26.928Z"
             }
           ]
         }

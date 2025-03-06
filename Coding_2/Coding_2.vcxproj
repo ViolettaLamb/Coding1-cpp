@@ -131,6 +131,7 @@
     <ClCompile Include="Coding_2.cpp" />
     <ClCompile Include="FavoriteGames.cpp" />
     <ClCompile Include="LoopsandLists.cpp" />
+    <ClCompile Include="recap.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

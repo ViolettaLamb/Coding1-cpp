@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 #include <string>
 #include <ctime>
@@ -110,4 +111,4 @@ int main()
 
     } while(currentFavGame <= 10);
     
-}
+}*/
