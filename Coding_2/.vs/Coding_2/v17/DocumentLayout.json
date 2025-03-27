@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D36EF11-D684-4296-82FC-BBEBACD54B82}|Coding_2.vcxproj|C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\recap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6D36EF11-D684-4296-82FC-BBEBACD54B82}|Coding_2.vcxproj|solutionrelative:recap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6D36EF11-D684-4296-82FC-BBEBACD54B82}|Coding_2.vcxproj|C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\adventure1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D36EF11-D684-4296-82FC-BBEBACD54B82}|Coding_2.vcxproj|solutionrelative:adventure1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D36EF11-D684-4296-82FC-BBEBACD54B82}|Coding_2.vcxproj|C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\Week10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D36EF11-D684-4296-82FC-BBEBACD54B82}|Coding_2.vcxproj|solutionrelative:Week10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "recap.cpp",
-              "DocumentMoniker": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\recap.cpp",
-              "RelativeDocumentMoniker": "recap.cpp",
-              "ToolTip": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\recap.cpp",
-              "RelativeToolTip": "recap.cpp",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAAAI0AAAACAAAAAAAAAA==",
+              "Title": "adventure1.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\adventure1.cpp",
+              "RelativeDocumentMoniker": "adventure1.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\adventure1.cpp",
+              "RelativeToolTip": "adventure1.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-06T15:32:28.902Z",
+              "WhenOpened": "2025-03-27T16:49:04.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Week10.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\Week10.cpp",
+              "RelativeDocumentMoniker": "Week10.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\Week10.cpp",
+              "RelativeToolTip": "Week10.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T14:39:34.198Z",
               "EditorCaption": ""
             }
           ]

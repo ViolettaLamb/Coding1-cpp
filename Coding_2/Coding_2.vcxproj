@@ -132,6 +132,7 @@
     <ClCompile Include="FavoriteGames.cpp" />
     <ClCompile Include="LoopsandLists.cpp" />
     <ClCompile Include="recap.cpp" />
+    <ClCompile Include="Week10.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
