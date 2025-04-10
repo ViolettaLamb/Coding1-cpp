@@ -1,5 +1,6 @@
 //Writing out the adventure 2.0
 //the includes and using namespace are basic always need before starting
+/*
 #include <iostream>
 #include <string>
 #include <ctime>  //might need, will delted if not
@@ -10,6 +11,7 @@ using namespace std;
 //call for totaltreasure and heal vairables
 int health = 20;
 int treasure = 0;
+int playerName;
 
 
 //FUNCTIONS
@@ -74,7 +76,7 @@ int rollDie()
 //Ending() -return void; ends if out of turns, says no or dies - break into two functions
 void ending() // proper ending if player doesnt die
 {
-    string playerName = getPlayerName();
+    int playerName;
     cout << "congrats, " << playerName << ", you've survive the abyss.\n";
     cout << "you were were able to bring back " << treasure << " amount of treasure back to the surface.\n\n";
     if (health < 5) cout << "You may want to take a rest and seek medical help, " << playerName << ".\n\n";
@@ -92,7 +94,7 @@ void death() //ending if player dies
 //AskYesNo() - One String agrument named "question"|return type is bool|yes starts|no ends it
 bool askYesNo(string question = "Would you like to explore the abyss?\n")
 {
-    string playerName = getPlayerName();  
+    int playerName;  
 
     do
     {
@@ -128,7 +130,7 @@ void adventure()
 {
     while (true) //all actions for game
     {
-        string playerName = getPlayerName();  
+        int playerName;  
 
         //randomizes block and attack
         int attack = rollDie();
@@ -178,6 +180,8 @@ int main()
 	
 	srand(time(0));
 
+    string playerName = getPlayerName();
+
 	//Story functions
 	 startStory();
 
@@ -187,3 +191,5 @@ int main()
     //adventure
     adventure();
 }
+
+*/

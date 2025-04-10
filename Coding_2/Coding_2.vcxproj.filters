@@ -36,5 +36,8 @@
     <ClCompile Include="Adventure.2.0.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Stucts.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
