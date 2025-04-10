@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="Adventure.2.0.cpp" />
     <ClCompile Include="adventure1.cpp" />
+    <ClCompile Include="Classes.cpp" />
     <ClCompile Include="Coding_2.cpp" />
     <ClCompile Include="FavoriteGames.cpp" />
     <ClCompile Include="LoopsandLists.cpp" />

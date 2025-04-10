@@ -4,7 +4,7 @@
 
 
 // plan old structs just holds data in them - no functions 
-
+/*
 #include <iostream>
 #include <string>
 #include <vector>
@@ -130,5 +130,5 @@ int main()
 
 	return 0;
 }
-
+*/
 
