@@ -5,7 +5,7 @@
 //Classes 
 // Setters and Getters
 //String is a class
-
+/*
 #include <iostream>
 #include <string>
 using namespace std;
@@ -144,3 +144,4 @@ int main()
 
 	return 0;
 }
+*/

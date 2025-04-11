@@ -132,6 +132,7 @@
     <ClCompile Include="ClassesandGetters.cpp" />
     <ClCompile Include="Coding_2.cpp" />
     <ClCompile Include="FavoriteGames.cpp" />
+    <ClCompile Include="HumanClass.cpp" />
     <ClCompile Include="LoopsandLists.cpp" />
     <ClCompile Include="recap.cpp" />
     <ClCompile Include="Stucts.cpp" />
