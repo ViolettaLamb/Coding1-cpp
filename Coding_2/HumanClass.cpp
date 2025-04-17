@@ -80,10 +80,10 @@ public:
 
 //constructors
 
-human::human(string givenName, int health, int baseDamage)
+human::human(string givenName, int givenhealth, int baseDamage)
 {
 	name = givenName;
-	health = health;
+	health = givenhealth;
 	damage = baseDamage;
 
 	// new talk
