@@ -1,7 +1,7 @@
 //Violetta Lamb
 //CPP Coding Week 12 homework
 //Human Classes
-
+/*
 #include <iostream>
 #include <string>
 using namespace std;
@@ -171,3 +171,5 @@ int main()
 
 	return 0;
 }
+
+*/

@@ -127,16 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Adventure.2.0.cpp" />
-    <ClCompile Include="adventure1.cpp" />
-    <ClCompile Include="ClassesandGetters.cpp" />
-    <ClCompile Include="Coding_2.cpp" />
-    <ClCompile Include="FavoriteGames.cpp" />
-    <ClCompile Include="HumanClass.cpp" />
-    <ClCompile Include="LoopsandLists.cpp" />
-    <ClCompile Include="recap.cpp" />
-    <ClCompile Include="Stucts.cpp" />
-    <ClCompile Include="Week10.cpp" />
+    <ClCompile Include="filez.cpp" />
+    <ClCompile Include="MainW14.cpp" />
+    <ClCompile Include="ship.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="filez.h" />
+    <ClInclude Include="ship.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
