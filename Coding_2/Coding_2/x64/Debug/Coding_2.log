@@ -1,4 +1,8 @@
-﻿  MainW14.cpp
+﻿  filez.cpp
+C:\Users\viole\Documents\Github\Coding1-cpp\Coding_2\filez.cpp(36,3): error C2561: 'WriteShipToFile': function must return a value
+      C:\Users\viole\Documents\Github\Coding1-cpp\Coding_2\filez.cpp(24,6):
+      see declaration of 'WriteShipToFile'
+  
+  MainW14.cpp
   ship.cpp
   Generating Code...
-  Coding_2.vcxproj -> C:\Users\viole\Documents\Github\Coding1-cpp\Coding_2\x64\Debug\Coding_2.exe

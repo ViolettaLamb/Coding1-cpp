@@ -21,11 +21,9 @@ int main()
 
 	WriteToFile("Did you get the Switch 2 preorder?\n");
 
+	WriteShipToFile("SS Minnow", 25, CRUISER); //CANT FIGURE OUT WHY ITS NOT RUNNING PROPERLY
 
-	ship minnow;
-	minnow.type = CRUISER;
-	minnow.status();
-
+	
 	return 0;
 }
 

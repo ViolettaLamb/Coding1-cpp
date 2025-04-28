@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{6D36EF11-D684-4296-82FC-BBEBACD54B82}|Coding_2.vcxproj|solutionrelative:MainW14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D36EF11-D684-4296-82FC-BBEBACD54B82}|Coding_2.vcxproj|C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\ship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6D36EF11-D684-4296-82FC-BBEBACD54B82}|Coding_2.vcxproj|solutionrelative:ship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D36EF11-D684-4296-82FC-BBEBACD54B82}|Coding_2.vcxproj|C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\ship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6D36EF11-D684-4296-82FC-BBEBACD54B82}|Coding_2.vcxproj|solutionrelative:ship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6D36EF11-D684-4296-82FC-BBEBACD54B82}|Coding_2.vcxproj|C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\filez.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6D36EF11-D684-4296-82FC-BBEBACD54B82}|Coding_2.vcxproj|solutionrelative:filez.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6D36EF11-D684-4296-82FC-BBEBACD54B82}|Coding_2.vcxproj|C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\ship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D36EF11-D684-4296-82FC-BBEBACD54B82}|Coding_2.vcxproj|solutionrelative:ship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6D36EF11-D684-4296-82FC-BBEBACD54B82}|Coding_2.vcxproj|C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\filez.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6D36EF11-D684-4296-82FC-BBEBACD54B82}|Coding_2.vcxproj|solutionrelative:filez.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D36EF11-D684-4296-82FC-BBEBACD54B82}|Coding_2.vcxproj|C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\ship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D36EF11-D684-4296-82FC-BBEBACD54B82}|Coding_2.vcxproj|solutionrelative:ship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,25 +35,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "filez.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\filez.cpp",
+              "RelativeDocumentMoniker": "filez.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\filez.cpp",
+              "RelativeToolTip": "filez.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T15:29:47.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ship.cpp",
               "DocumentMoniker": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\ship.cpp",
               "RelativeDocumentMoniker": "ship.cpp",
               "ToolTip": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\ship.cpp",
               "RelativeToolTip": "ship.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-24T15:43:03.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ship.h",
               "DocumentMoniker": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\ship.h",
               "RelativeDocumentMoniker": "ship.h",
               "ToolTip": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\ship.h",
               "RelativeToolTip": "ship.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-24T15:39:14.65Z",
               "EditorCaption": ""
@@ -61,25 +74,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "filez.cpp",
-              "DocumentMoniker": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\filez.cpp",
-              "RelativeDocumentMoniker": "filez.cpp",
-              "ToolTip": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\filez.cpp",
-              "RelativeToolTip": "filez.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-24T15:29:47.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "filez.h",
               "DocumentMoniker": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\filez.h",
               "RelativeDocumentMoniker": "filez.h",
               "ToolTip": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\filez.h",
               "RelativeToolTip": "filez.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-24T15:27:27.116Z",
               "EditorCaption": ""
@@ -92,7 +92,7 @@
               "RelativeDocumentMoniker": "MainW14.cpp",
               "ToolTip": "C:\\Users\\viole\\Documents\\Github\\Coding1-cpp\\Coding_2\\MainW14.cpp*",
               "RelativeToolTip": "MainW14.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxoAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-24T14:45:18.041Z",
               "EditorCaption": ""
